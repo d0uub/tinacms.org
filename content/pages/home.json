@@ -5,20 +5,6 @@
   },
   "blocks": [
     {
-      "_template": "hero",
-      "headline": "The Fastest Way to Edit Next.js Content",
-      "subline": "A visual editing experience for content stored in Markdown and JSON",
-      "actions": [
-        {
-          "variant": "orange",
-          "label": "Get Started",
-          "icon": "",
-          "url": "https://app.tina.io/quickstart"
-        }
-      ],
-      "videoSrc": "v1629294438/tina-io/Beta_Launch_Demo"
-    },
-    {
       "_template": "features",
       "headline": "Unlock your team with *next-gen editing*",
       "subline": "Tina is an open-source editor for Jamstack sites",
@@ -64,6 +50,20 @@
           }
         }
       ]
+    },
+    {
+      "_template": "hero",
+      "headline": "The Fastest Way to Edit Next.js Content",
+      "subline": "A visual editing experience for content stored in Markdown and JSON",
+      "actions": [
+        {
+          "variant": "orange",
+          "label": "Get Started",
+          "icon": "",
+          "url": "https://app.tina.io/quickstart"
+        }
+      ],
+      "videoSrc": "v1629294438/tina-io/Beta_Launch_Demo"
     },
     {
       "_template": "flying",
